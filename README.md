@@ -7,3 +7,4 @@
   AGC（Auto Gain Control 自动增益控制）
 现在只有一个Android Demo
 Now,let's do it.
+博客地址：http://blog.csdn.net/moming_2013/article/details/41604923
